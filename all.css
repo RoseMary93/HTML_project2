@@ -48,11 +48,24 @@ table {
 }
 
 /* ===================== */
+body {
+	text-indent: 2em;
+	line-height: 1.5;
+	font-family: "Noto Sans TC", "Microsoft JhengHei", sans-serif;
+}
 
 h1{
-    color: red;  
+    font-size: 32px;
+	font-weight: 500;  
 }
 
 p{
-    color: green;
+    color: rgb(0, 9, 128);
+}
+
+img {
+	width: 300px;
+	display: block;
+	margin: 0 auto;
+
 }
